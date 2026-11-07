@@ -57,3 +57,8 @@ python3 main.py
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+
+# cse103-lab-LAB3
+Lab work for LAB 3 — GitHub Collaboration &amp; API Interaction
+This is my github repository
+
